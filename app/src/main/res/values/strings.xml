@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">AndroidProject</string>
+    <string-array name="units">
+        <item>
+            Millimeter(mm)
+        </item>
+        <item>
+            Centimeter(cm)
+        </item>
+        <item>
+            Meter(m)
+        </item>
+        <item>
+            Kilometer(km)
+        </item>
+    </string-array>
 </resources>
